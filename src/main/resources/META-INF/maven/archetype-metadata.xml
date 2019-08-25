@@ -38,9 +38,10 @@ under the License.
 	 	<directory/>
       <includes>
         <include>Procfile</include>
-		  <include>app.json</include>
-		  <include>README.md</include>
-		  <include>system.properties</include>
+		    <include>app.json</include>
+		    <include>README.md</include>
+		    <include>system.properties</include>
+        <include>.gitignore</include>
       </includes>
     </fileSet>    
   </fileSets>
