@@ -1,0 +1,14 @@
+{
+    "name": "${artifactId}",
+	"description": "Simple java application",
+    "image":"heroku/java",
+    "addons":[
+        "heroku-postgresql",
+        "heroku-redis"
+    ],
+	"keywords": [
+		"java", "heroku-postgres"],
+	"environments": {
+		"test": {}
+	}
+}
