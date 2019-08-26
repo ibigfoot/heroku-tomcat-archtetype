@@ -8,10 +8,15 @@
   <artifactId>heroku-tomcat</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
-
+  
   <name>Archetype - heroku-tomcat</name>
 
   <url>http://www.heroku.com</url>
+
+  <scm>
+    <connection>scm:git:https://ibigfoot@github.com/ibigfoot/heroku-tomcat-archtetype</connection>
+    <developerConnection>scm:git:https://ibigfoot@github.com/ibigfoot/heroku-tomcat-archtetype</developerConnection>
+  </scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

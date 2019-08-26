@@ -16,7 +16,7 @@ Then, change into the directory you want to create you application in and
 >mvn archetype:generate \
     -DarchetypeGroupId=com.heroku.aus \
     -DarchetypeArtifactId=heroku-tomcat \
-    -DarchetypeVersion=1.0-SNAPSHOT \
+    -DarchetypeVersion=1.0 \
     -DgroupId=<your group ID> \
     -DartifactId=<your artifact id>
 ```
