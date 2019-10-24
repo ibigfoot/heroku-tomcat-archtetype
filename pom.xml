@@ -5,7 +5,7 @@
 
   <groupId>com.troy-sellers</groupId>
   <artifactId>heroku-tomcat</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <packaging>maven-archetype</packaging>
   
   <name>Archetype - heroku-tomcat</name>
@@ -15,7 +15,7 @@
   <scm>
     <connection>scm:git:https://ibigfoot@github.com/ibigfoot/heroku-tomcat-archtetype</connection>
     <developerConnection>scm:git:https://ibigfoot@github.com/ibigfoot/heroku-tomcat-archtetype</developerConnection>
-    <tag>heroku-tomcat-1.0</tag>
+    <tag>heroku-tomcat-1.1</tag>
   </scm>
 
   <properties>
